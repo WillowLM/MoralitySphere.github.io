@@ -1,4 +1,5 @@
 body {
+    text-align: center;
     font-family: 'George, serif';
     margin: 0;
     padding: 0;
@@ -99,4 +100,15 @@ main {
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
+  }
+
+  .Digtra {
+    margin: auto;
+    font-size:x-large;
+    width: 75%;
+  }
+  .about {
+    margin: auto; 
+    font-size: x-large;
+    width: 50%;
   }
