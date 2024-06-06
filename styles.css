@@ -115,5 +115,9 @@ main {
   .subheading {
     margin: auto;
     font-size: x-large;
-
+  }
+  .JBN {
+    margin: auto;
+    font-size: large;
+    width: 75%;
   }
